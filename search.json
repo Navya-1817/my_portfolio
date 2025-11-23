@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "these are some of the projects i worked on\n\nPyVNT Node Editor (FOSSEE)\nA visual node-based editor for creating case files for OpenFOAM, developed during my summer fellowship at FOSSEE, IIT Bombay. This app enables visual programming and uses PyVNT library.\nTech Stack: Python\nView on GitHub →\n\n\nOvaryWise\nA comprehensive health webapp focused on PCOS management. Built to help users check symptoms, and get personalized health insights but not to replace any health advisor. A hobby project, might not give reliable results.\nTech Stack: JavaScript\nView on GitHub →\n\n\nTimeHover\nAn innovative time tracking and productivity tool designed to help users visualize and manage their time more effectively.\nTech Stack: JavaScript\nView on GitHub →"
+    "text": "these are some of the projects i worked on\n\nPyVNT Node Editor (FOSSEE)\nA visual node-based editor for creating case files for OpenFOAM, developed during my summer fellowship at FOSSEE, IIT Bombay. This app enables visual programming and uses PyVNT library.\nTech Stack: Python\nView on GitHub →\n\n\nOvaryWise\nA comprehensive health webapp focused on PCOS management. Built to help users check symptoms, and get personalized health insights but not to replace any health advisor. A hobby project, might not give reliable results.\nTech Stack: JavaScript\nView on GitHub →\n\n\nTimeHover\nAn extension to view time in user’s timezone.\nTech Stack: JavaScript\nView on GitHub →"
   },
   {
     "objectID": "index.html",

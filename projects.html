@@ -170,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="timehover" class="level3 card">
 <h3 class="anchored" data-anchor-id="timehover"><a href="https://github.com/Navya-1817/timehover">TimeHover</a></h3>
-<p>An innovative time tracking and productivity tool designed to help users visualize and manage their time more effectively.</p>
+<p>An extension to view time in user’s timezone.</p>
 <p><strong>Tech Stack:</strong> JavaScript</p>
 <p><a href="https://github.com/Navya-1817/timehover">View on GitHub →</a></p>
 </section>
@@ -251,7 +251,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Navya-1817\.github\.io\/my_portfolio\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
