@@ -1,0 +1,32 @@
+---
+title: "Projects"
+---
+
+these are some of the projects i worked on
+
+::: {.card}
+### [PyVNT Node Editor (FOSSEE)](<https://github.com/FOSSEE/pyvnt_node_editor>)
+A visual node-based editor for creating case files for OpenFOAM, developed during my summer fellowship at FOSSEE, IIT Bombay. This app enables visual programming and uses PyVNT library.
+
+**Tech Stack:** Python
+
+[View on GitHub →](https://github.com/FOSSEE/pyvnt_node_editor)
+:::
+
+::: {.card}
+### [OvaryWise](<https://navya-1817.github.io/OvaryWise-PCOS-Risk-Assessment/>)
+A comprehensive health webapp focused on PCOS management. Built to help users check symptoms, and get personalized health insights but not to replace any health advisor. A hobby project, might not give reliable results.
+
+**Tech Stack:** JavaScript
+
+[View on GitHub →](https://github.com/Navya-1817/OvaryWise-PCOS-Risk-Assessment)
+:::
+
+::: {.card}
+### [TimeHover](<https://github.com/Navya-1817/timehover>)
+An innovative time tracking and productivity tool designed to help users visualize and manage their time more effectively.
+
+**Tech Stack:** JavaScript
+
+[View on GitHub →](https://github.com/Navya-1817/timehover)
+:::

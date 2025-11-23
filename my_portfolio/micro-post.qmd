@@ -1,0 +1,19 @@
+---
+title: "Micro-Post"
+---
+
+quick thoughts, snippets, and updates
+
+::: {.micropost}
+::: {.micropost-date}
+November 2025
+:::
+finally got a hacktoberfest badge
+:::
+
+::: {.micropost}
+::: {.micropost-date}
+October 2025
+:::
+found constitutional observer cool especially when indian households have taught us to shut up and not question
+:::
