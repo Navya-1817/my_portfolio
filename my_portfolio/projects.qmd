@@ -24,7 +24,7 @@ A comprehensive health webapp focused on PCOS management. Built to help users ch
 
 ::: {.card}
 ### [TimeHover](<https://github.com/Navya-1817/timehover>)
-An innovative time tracking and productivity tool designed to help users visualize and manage their time more effectively.
+An extension to view time in user's timezone.
 
 **Tech Stack:** JavaScript
 
