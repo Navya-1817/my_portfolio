@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "these are some of the projects i worked on\n\nPyVNT Node Editor (FOSSEE)\nA visual node-based editor for creating case files for OpenFOAM, developed during my summer fellowship at FOSSEE, IIT Bombay. This app enables visual programming and uses PyVNT library.\nTech Stack: Python\nView on GitHub →\n\n\nOvaryWise\nA comprehensive health webapp focused on PCOS management. Built to help users check symptoms, and get personalized health insights but not to replace any health advisor. A hobby project, might not give reliable results.\nTech Stack: JavaScript\nView on GitHub →\n\n\nTimeHover\nAn innovative time tracking and productivity tool designed to help users visualize and manage their time more effectively.\nTech Stack: JavaScript\nView on GitHub →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "i’m navya, a third year undergrad in Computer Science.\nThe logo and background were designed in piskel. Canva and Adobe were used for further editing. This website is built using quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "i’m a third year undergrad in Computer Science.i spend most of my time tinkering, cascading my way through the tabs in the internet’s winding rabbit hole, reading novels, journaling and ocassionally taking my frustration out on twitter.\ncurrently, i am a mentee at Codess.Cafe(a pro bono mentorship for women) and sktime(a library for time series). I’m keen at improving my dsa and exploring data science and ML.\ni like tech which impacts people’s lives in a good way. art, history, or science entwined makes it interesting even more for me."
+  },
+  {
+    "objectID": "about.html#connect-with-me",
+    "href": "about.html#connect-with-me",
+    "title": "About",
+    "section": "Connect with me",
+    "text": "Connect with me\n\n  🐻"
+  },
+  {
+    "objectID": "micro-post.html",
+    "href": "micro-post.html",
+    "title": "Micro-Post",
+    "section": "",
+    "text": "quick thoughts, snippets, and updates\n\n\nNovember 2025\n\nfinally got a hacktoberfest badge\n\n\n\nOctober 2025\n\nfound constitutional observer cool especially when indian households have taught us to shut up and not question"
+  }
+]
