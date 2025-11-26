@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "these are some of the projects i worked on\n\nPyVNT Node Editor (FOSSEE)\nA visual node-based editor for creating case files for OpenFOAM, developed during my summer fellowship at FOSSEE, IIT Bombay. This app enables visual programming and uses PyVNT library.\nTech Stack: Python\nView on GitHub →\n\n\nOvaryWise\nA comprehensive health webapp focused on PCOS management. Built to help users check symptoms, and get personalized health insights but not to replace any health advisor. A hobby project, might not give reliable results.\nTech Stack: JavaScript\nView on GitHub →\n\n\nTimeHover\nAn extension to view time in user’s timezone.\nTech Stack: JavaScript\nView on GitHub →"
+    "text": "these are some of the projects i worked on\n\nPyVNT Node Editor (FOSSEE)\nA visual node-based editor for creating case files for OpenFOAM, developed during my summer fellowship at FOSSEE, IIT Bombay. This app acts an interface to the PyVNT library.\nTech Stack: Python(PyQt6), Git, YAML\nView on GitHub →\n\n\nOvaryWise\nA comprehensive health webapp focused on PCOS management. Built to help users check symptoms, and get personalized health insights but not to replace any health advisor. A hobby project, might not give reliable results.\nTech Stack: JavaScript, HTML, CSS\nView on GitHub →\n\n\nTimeHover\nAn extension that converts timezone references to your local time on any webpage.\nTech Stack: JavaScript\nView on GitHub →"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "i’m navya, a third year undergrad in Computer Science.\nThe logo and background were designed in piskel. Canva and Adobe were used for further editing. This website is built using quarto."
+    "text": "i’m navya, a third year undergrad in Computer Science, python programmer, problem solver and an open-source advocate.\nthis portfolio website is an effort to increase my digital presence. The logo and background were designed in piskel. Canva and Adobe were used for further editing."
   },
   {
     "objectID": "about.html",
@@ -32,6 +32,6 @@
     "href": "micro-post.html",
     "title": "Micro-Post",
     "section": "",
-    "text": "quick thoughts, snippets, and updates\n\n\nNovember 2025\n\nfinally got a hacktoberfest badge\n\n\n\nOctober 2025\n\nfound constitutional observer cool especially when indian households have taught us to shut up and not question"
+    "text": "quick thoughts, snippets, and updates\n\n\nNovember 2025\n\nfinally got a hacktoberfest badge!!\n\n\n\nOctober 2025\n\nfound constitutional observer cool especially when indian households have taught us to shut up and not question"
   }
 ]
