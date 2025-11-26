@@ -2,6 +2,8 @@
 title: "Hello!"
 ---
 
-i'm navya, a third year undergrad in Computer Science.
+![](images/myshot.png){width=200px height=200px style="border-radius: 50%; object-fit: cover; float: right; margin-left: 20px; margin-bottom: 20px; margin-top: -80px;"}
 
-The logo and background were designed in piskel. Canva and Adobe were used for further editing. This website is built using quarto.
+i'm navya, a third year undergrad in Computer Science, python programmer, problem solver and an open-source advocate.
+
+this portfolio website is an effort to increase my digital presence. The logo and background were designed in piskel. Canva and Adobe were used for further editing. 

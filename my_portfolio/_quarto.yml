@@ -3,17 +3,22 @@ project:
 
 website:
   title: "Navya Sai Sadu"
+  favicon: "./images/logofinal.png"
   navbar:
     logo: "./images/logofinal.png"
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About
       - href: projects.qmd
         text: Projects
       - href: micro-post.qmd
         text: Micro-Post
+  page-footer:
+    left: |
+      <small>Made with [Quarto](https://quarto.org/) | © 2025 Navya Sai Sadu</small>
+    right: |
+      <small>[View Source Code](https://github.com/Navya-1817/my_portfolio)</small>
+  site-url: "https://navyasaisadu.dev"
 
 format:
   html:
