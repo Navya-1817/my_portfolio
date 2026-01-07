@@ -9,7 +9,8 @@ quick thoughts, snippets, and updates
 January 2026
 :::
 everything, in time
-successfully set up Kubuntu(finallyy) and exploring KDE projects
+
+successfully set up Kubuntu(finallyy) and exploring SoK projects
 :::
 
 ::: {.micropost}
