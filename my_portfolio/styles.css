@@ -8,3 +8,12 @@
   font-size: 1.5rem;
   font-weight: 600;
 }
+
+/* Mobile responsive fixes */
+@media (max-width: 768px) {
+  img[style*="float: right"] {
+    float: none !important;
+    margin: 0 auto 20px auto !important;
+    display: block !important;
+  }
+}

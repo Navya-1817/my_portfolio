@@ -6,6 +6,14 @@ quick thoughts, snippets, and updates
 
 ::: {.micropost}
 ::: {.micropost-date}
+January 2026
+:::
+everything, in time
+successfully set up Kubuntu(finallyy) and exploring KDE projects
+:::
+
+::: {.micropost}
+::: {.micropost-date}
 November 2025
 :::
 finally got a [hacktoberfest badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmgy28ney0069ky04n974po2k)!!

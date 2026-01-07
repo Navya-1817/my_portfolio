@@ -4,9 +4,61 @@ title: "About"
 
 i'm a third year undergrad in Computer Science.i spend most of my time tinkering, cascading my way through the tabs in the internet's winding rabbit hole, reading novels, journaling and ocassionally taking my frustration out on twitter.
 
-currently, i am a mentee at Codess.Cafe(a pro bono mentorship for women) and sktime(a library for time series). I'm keen at improving my dsa and exploring data science and ML.
+currently, i am a mentee at Codess.Cafe(a pro bono mentorship for women). I'm keen at improving my dsa and exploring data science and ML.
 
 i like tech which impacts people's lives in a good way. art, history, or science entwined makes it interesting even more for me.
+
+## Skills & Tech Stack
+
+```{python}
+#| echo: false
+import pandas as pd
+import plotly.express as px
+
+df = pd.DataFrame([
+  {"category":"Languages","skill":"Python","value":30,"level":"Proficient"},
+  {"category":"Languages","skill":"Java","value":30,"level":"Proficient"},
+  {"category":"Web Development","skill":"HTML/CSS","value":18,"level":"Good"},
+  {"category":"Web Development","skill":"JavaScript","value":18,"level":"Good"},
+  {"category":"Web Development","skill":"JSP","value":12,"level":"Good"},
+  {"category":"Data Science","skill":"Pandas","value":12,"level":"Good"},
+  {"category":"Data Science","skill":"NumPy","value":12,"level":"Good"},
+  {"category":"Data Science","skill":"Scikit-learn","value":12,"level":"Good"},
+  {"category":"Data Science","skill":"sktime","value":10,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"Git","value":15,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"GitHub","value":15,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"Android Studio","value":12,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"Render","value":10,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"Colab","value":12,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"Quarto","value":10,"level":"Good"},
+  {"category":"Databases","skill":"PostgreSQL","value":15,"level":"Good"},
+  {"category":"Databases","skill":"MySQL","value":15,"level":"Good"}
+])
+
+fig = px.treemap(df, 
+                 path=['category','skill'], 
+                 values='value',
+                 color='level',
+                 color_discrete_map={"Proficient":"#C8A2C8","Good":"#B5D5C5"},
+                 hover_data={'value':False, 'level':True})
+
+fig.update_layout(
+    margin=dict(t=10,l=5,r=5,b=10),
+    height=550,
+    paper_bgcolor='rgba(0,0,0,0)',
+    plot_bgcolor='rgba(0,0,0,0)',
+    font=dict(size=13, family="Lato, sans-serif", color="#0D0C0F")
+)
+
+fig.update_traces(
+    textposition="middle center",
+    textfont=dict(size=12, color="#0D0C0F"),
+    marker=dict(line=dict(width=2, color='white'), cornerradius=5),
+    hovertemplate='<b>%{label}</b><br>Level: %{customdata[0]}<extra></extra>'
+)
+
+fig.show(config={'responsive': True, 'displayModeBar': False})
+```
 
 ## Connect with me
 
