@@ -17,7 +17,7 @@ website:
         text: Micro-Post
   page-footer:
     left: |
-      <small>Made with [Quarto](https://quarto.org/) | © 2025 Navya Sai Sadu</small>
+      <small>Made with [Quarto](https://quarto.org/) | © 2026 Navya Sai Sadu</small>
     right: |
       <small>[View Source Code](https://github.com/Navya-1817/my_portfolio)</small>
   site-url: "https://navya-1817.github.io/my_portfolio/"
@@ -29,4 +29,3 @@ format:
     toc: true
     page-layout: article
     smooth-scroll: true
-

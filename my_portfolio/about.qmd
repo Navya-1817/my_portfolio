@@ -73,6 +73,5 @@ fig.show(config={'responsive': True, 'displayModeBar': False})
 ::: {.social-links}
 <a href="https://github.com/Navya-1817" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
 <a href="https://www.linkedin.com/in/navya-sai-sadu/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
-<a href="https://myplot.bearblog.dev/" target="_blank" title="Bearblog">🐻</a>
 <a href="https://medium.com/@navyas.sadu" target="_blank" title="Medium"><i class="bi bi-medium"></i></a>
 :::
