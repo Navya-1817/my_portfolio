@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-i'm a third year undergrad in Computer Science.i spend most of my time tinkering, cascading my way through the tabs in the internet's winding rabbit hole, reading novels, journaling and ocassionally taking my frustration out on twitter.
+i'm a final year undergrad in Computer Science. i spend most of my time tinkering, cascading my way through the tabs in the internet's winding rabbit hole, reading novels, journaling and ocassionally taking my frustration out on twitter.
 
-currently, i am a mentee at Codess.Cafe(a pro bono mentorship for women). I'm keen at improving my dsa and exploring data science and ML.
+currently, i am a mentee at Codess.Cafe(a pro bono mentorship for women),and contributor to KDE under Google Summer of Code. I'm keen at improving my dsa and exploring data science and ML.
 
 i like tech which impacts people's lives in a good way. art, history, or science entwined makes it interesting even more for me.
 
@@ -18,21 +18,29 @@ import plotly.express as px
 df = pd.DataFrame([
   {"category":"Languages","skill":"Python","value":30,"level":"Proficient"},
   {"category":"Languages","skill":"Java","value":30,"level":"Proficient"},
+  {"category":"Languages","skill":"C++","value":15,"level":"Proficient"},      
+
   {"category":"Web Development","skill":"HTML/CSS","value":18,"level":"Good"},
   {"category":"Web Development","skill":"JavaScript","value":18,"level":"Good"},
   {"category":"Web Development","skill":"JSP","value":12,"level":"Good"},
+
   {"category":"Data Science","skill":"Pandas","value":12,"level":"Good"},
   {"category":"Data Science","skill":"NumPy","value":12,"level":"Good"},
   {"category":"Data Science","skill":"Scikit-learn","value":12,"level":"Good"},
   {"category":"Data Science","skill":"sktime","value":10,"level":"Good"},
+
   {"category":"Tools & Platforms","skill":"Git","value":15,"level":"Good"},
   {"category":"Tools & Platforms","skill":"GitHub","value":15,"level":"Good"},
   {"category":"Tools & Platforms","skill":"Android Studio","value":12,"level":"Good"},
   {"category":"Tools & Platforms","skill":"Render","value":10,"level":"Good"},
   {"category":"Tools & Platforms","skill":"Colab","value":12,"level":"Good"},
   {"category":"Tools & Platforms","skill":"Quarto","value":10,"level":"Good"},
+  {"category":"Tools & Platforms","skill":"Qt","value":12,"level":"Good"},   
+
   {"category":"Databases","skill":"PostgreSQL","value":15,"level":"Good"},
-  {"category":"Databases","skill":"MySQL","value":15,"level":"Good"}
+  {"category":"Databases","skill":"MySQL","value":15,"level":"Good"},
+
+  {"category":"Scripting","skill":"Bash","value":8,"level":"Good"}        
 ])
 
 fig = px.treemap(df, 

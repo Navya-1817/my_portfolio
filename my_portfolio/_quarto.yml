@@ -1,6 +1,8 @@
 project:
   type: website
 
+jupyter: my-portfolio
+
 website:
   title: "Navya Sai Sadu"
   favicon: "./images/logofinal.png"
@@ -18,7 +20,7 @@ website:
       <small>Made with [Quarto](https://quarto.org/) | © 2025 Navya Sai Sadu</small>
     right: |
       <small>[View Source Code](https://github.com/Navya-1817/my_portfolio)</small>
-  site-url: "https://navyasaisadu.dev"
+  site-url: "https://navya-1817.github.io/my_portfolio/"
 
 format:
   html:
@@ -27,6 +29,4 @@ format:
     toc: true
     page-layout: article
     smooth-scroll: true
-
-
 

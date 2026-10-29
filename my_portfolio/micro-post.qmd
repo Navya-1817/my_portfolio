@@ -6,6 +6,15 @@ quick thoughts, snippets, and updates
 
 ::: {.micropost}
 ::: {.micropost-date}
+June 2026
+:::
+almost halfway through gsoc yay!!
+
+let's see what awaits at tifr
+:::
+
+::: {.micropost}
+::: {.micropost-date}
 January 2026
 :::
 everything, in time
