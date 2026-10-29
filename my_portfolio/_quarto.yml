@@ -9,11 +9,11 @@ website:
   navbar:
     logo: "./images/logofinal.png"
     left:
-      - href: about.qmd
+      - href: about.html
         text: About
-      - href: projects.qmd
+      - href: projects.html
         text: Projects
-      - href: micro-post.qmd
+      - href: micro-post.html
         text: Micro-Post
   page-footer:
     left: |
